@@ -1,3 +1,8 @@
+# This code sends a GET request to an API at the specified URL. 
+# The API returns a joke about programming in JSON format. 
+# The code parses the response and extracts the joke from it. 
+# Finally, the code prints the joke to the console.
+
 # import requests
 import requests
 
